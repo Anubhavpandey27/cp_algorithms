@@ -4,12 +4,12 @@ using namespace std;
 #include <string>
 #include <algorithm>
 #include <math.h>
-#define ll long long
-ll binary_exp(ll a, ll b){
+
+long long  binary_exp(long long a, long long b){
     if(b==0){
         return 1;
     }
-    ll ex=binary_exp(a,b/2);
+    long long ex=binary_exp(a,b/2);
     if((b&1)==1){
         
         return ex*ex*a;

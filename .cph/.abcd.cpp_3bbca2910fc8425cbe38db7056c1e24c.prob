@@ -1,0 +1,1 @@
+{"name":"Local: abcd","url":"c:\\Users\\ASUS\\Documents\\cp_algorithms\\abcd.cpp","tests":[{"id":1708531127812,"input":"3\n6\n10\n43223","output":"0\n2\n5929"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Documents\\cp_algorithms\\abcd.cpp","group":"local","local":true}
